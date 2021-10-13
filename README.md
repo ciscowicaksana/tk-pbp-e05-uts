@@ -12,6 +12,6 @@ Anggota Kelompok
 Link Heroku App : https://git.heroku.com/tk-pbp-e05-uts.git
 
 **Ide Aplikasi**
-
+Pada era COVID seperti sekarang perjalanan antar daerah menemui banyak restriksi dan regulasi. Aplikasi kami hadir agar memudahkan baik pihak pemerintah daerah ataupun pengunjung yang baru datang ke daerah yang dituju.
 
 **Persona**
