@@ -15,3 +15,8 @@ Link Heroku App : https://git.heroku.com/tk-pbp-e05-uts.git
 
 
 **Persona**
+
+
+**Daftar Modul**
+Models : Account (Name, Password, etc); Lokasi (Rumah Sakit/Hotel Karantina/Lokasi Vaksin)
+Modules: Login, Bikin Akun, Daftar Vaksin, Daftar Karantina
