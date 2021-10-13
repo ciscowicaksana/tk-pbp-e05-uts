@@ -1,7 +1,7 @@
 # tk-pbp-e05-uts
 Tugas Kelompok Pemrograman Berbasis Platform UTS Kelompok E05 TA 2021-2022
 
-**Anggota Kelompok**
+<span style="color:blue">**Anggota Kelompok**</span>
 1. Cisco Salya Wicaksana (2006596604)
 2. Arga Christian Roymansa (2006596554)
 3. Farel Musyaffa Arya Putra Majesta (2006596472)
