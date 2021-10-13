@@ -9,6 +9,8 @@ Anggota Kelompok
 5. Sultan Fahrezy Syahdwinata Nugraha (2006533811)
 6. Muhammad Rifqi Praditya (2006596346)
 
+Link Heroku App : https://git.heroku.com/tk-pbp-e05-uts.git
+
 **Ide Aplikasi**
 
 
