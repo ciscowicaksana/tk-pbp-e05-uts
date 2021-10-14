@@ -1,5 +1,5 @@
 # tk-pbp-e05-uts
-Tugas Kelompok Pemrograman Berbasis Platform UTS Kelompok E05 TA 2021-2022
+### Tugas Kelompok Pemrograman Berbasis Platform UTS Kelompok E05 TA 2021-2022
 
 Anggota Kelompok
 1. Cisco Salya Wicaksana (2006596604)
@@ -19,5 +19,28 @@ Ketika mengunjungi aplikasi ini
 
 
 **Daftar Modul**
-Models : Account (Name, Password, etc); Lokasi (Rumah Sakit/Hotel Karantina/Lokasi Vaksin)
-Modules: Login, Bikin Akun, Daftar Vaksin, Daftar Karantina
+Models
+- *Account* (Name, Password, etc)
+- Lokasi (Rumah Sakit/Hotel Karantina/Lokasi Vaksin)
+
+Modules
+- *Create Account*
+
+    Berisi nama lengkap, *e-mail*, *Account ID*, *password*, dan tanggal lahir.
+
+- *Login*
+
+    Memintakan *Account ID* (atau *e-mail*) dan *password* yang sudah terdaftar.
+    Memiliki pilihan [Lupa *password*]
+
+- Lupa *password*
+
+    Memintakan *e-mail* yang sudah terdaftar.
+
+- Daftar Vaksin
+
+    Memberikan daftar pilihan tanggal dan lokasi vaksinasi yang tersedia.
+
+- Daftar Karantina
+
+    Memberikan daftar pilihan tanggal dan lokasi karantina yang tersedia.
