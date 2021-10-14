@@ -15,8 +15,14 @@ Link Heroku App : https://git.heroku.com/tk-pbp-e05-uts.git
 Pada era COVID seperti sekarang perjalanan antar daerah menemui banyak restriksi dan regulasi. Aplikasi kami hadir agar memudahkan baik pihak pemerintah daerah ataupun pengunjung yang baru datang ke daerah yang dituju. Aplikasi ini berfungsi sebagai pusat integrasi baik administrasi data pengunjung beserta tempat penting seperti penginapan untuk melakukan karantina dan tempat yang menyediakan vaksin bagi pengunjung, juga sarana pendaftaran bagi para pengunjung ke daerah tersebut dan pendaftaran ke penginapan karantina dan tempat vaksin.
 
 Ketika mengunjungi aplikasi ini 
-**Persona**
 
+**Persona**
+Daftar Modul Models : Account (Name, Password, etc); Lokasi (Rumah Sakit/Hotel Karantina/Lokasi Vaksin) Modules: Login, Bikin Akun, Daftar Vaksin, Daftar Karantina
+
+Setelah setahun lebih melaksanakan karantina dan social distancing, A merasa bosan dan ingin pergi ke tempat-tempat wisata untuk refreshing. A mengerti mengenai pentingnya vaksinasi dalam mencegah penyebaran Covid-19, dan ia juga peduli mengenai protokol kesehatan dalam melaksanakan pariwisata. A mencari suatu website yang dapat membantu dia melaksanakan wisata, serta dapat menjaga dirinya dari bahayanya penyebaran Covid-19.
+
+Dengan protokol kesehatan yang dilaksanakan selama pandemi, bisnis pariwisata mengalami kemunduran yang besar. Sekarang, pihak pemerintah daerah ingin merevitalisasi perokonomian daerah, termasuk dalam sektor pariwisata, serta mengontrol laju penyebaran Covid-19. Oleh karena itu, pemerintah mencari berbagai macam solusi yang dapat membantu pihak pemerintahan daerah dalam mengejar dua tujuan tersebut.
+=======
 
 **Daftar Modul**
 Models : Account (Name, Password, etc); Lokasi (Rumah Sakit/Hotel Karantina/Lokasi Vaksin)
