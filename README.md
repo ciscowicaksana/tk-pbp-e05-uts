@@ -9,7 +9,7 @@ Anggota Kelompok
 5. Sultan Fahrezy Syahdwinata Nugraha (2006533811)
 6. Muhammad Rifqi Praditya (2006596346)
 
-Link Heroku App : https://git.heroku.com/tk-pbp-e05-uts.git
+Link Heroku App : https://tk-pbp-e05-uts.herokuapp.com/
 
 **Ide Aplikasi**
 Pada era COVID seperti sekarang perjalanan antar daerah menemui banyak restriksi dan regulasi. Namun, bukan berarti perjalanan antar daerah harus dihentikan sepenuhnya. Banyak kehidupan orang yang bergantung dari kedatangan para pendatang. Oleh karena itu diperlukan suatu cara agar perjalanan dapat dilakukan dengan tetap memenuhi protokol kesehatan yang telah ditetapkan oleh pemerintah secara efektif. 
