@@ -26,6 +26,7 @@ Dengan protokol kesehatan yang dilaksanakan selama pandemi, bisnis pariwisata me
 Models
 - *Account* (Name, Password, etc)
 - Lokasi (Rumah Sakit/Hotel Karantina/Lokasi Vaksin)
+- Pendaftaran (Vaksin / Karantina)
 
 Modules
 - *Create Account*
@@ -48,3 +49,7 @@ Modules
 - Daftar Karantina
 
     Memberikan daftar pilihan tanggal dan lokasi karantina yang tersedia.
+    
+- Daftar Lokasi
+    
+    Membuat lokasi untuk vaksin, atau membuat lokasi untuk karantina
